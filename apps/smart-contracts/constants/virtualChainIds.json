@@ -1,0 +1,9 @@
+{
+    "baseGoerli": 10121,
+    "goerli": 10160,
+    "avalanche": 106,
+    "polygon": 109,
+    "arbitrum": 110,
+    "optimism": 111,
+    "fantom": 112
+}

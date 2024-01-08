@@ -1,0 +1,10 @@
+{
+    "methodName": "setTrustedRemote",
+    "mapName": "trustedRemoteLookup",
+    "baseGoerli": {
+        "address": "0x6E79F6dD98ff6B7230dCEC508742168F3617b87B"
+    },
+    "goerli": {
+        "address": "0xA7a073e141125446825233F21E2e15784fB42c9D"
+    }
+}
